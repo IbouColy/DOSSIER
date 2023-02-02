@@ -1,0 +1,276 @@
+
+nav img{
+
+    
+}
+a {
+    text-decoration: none;
+}
+
+nav {
+display: flex;
+justify-content: space-between;
+padding: 15px;
+}
+li {
+    display: flex;
+    list-style: none;
+    margin-right: 0px;
+    display: inline;
+    margin: 20px;
+    
+    
+}
+ul {
+    margin-right: 200px;
+}
+.mega {
+    margin-left: 650px;
+}
+section h1 {
+    text-align: center;
+    color:#00b39b; 
+    font-size: 25px;
+    margin-left: 0px;
+    font-family: Roboto,Arial,sans-serif;
+
+}
+.apropos {
+    color: #00b39b;
+}
+.momo {
+    color:#747474; ;
+}
+li:hover {
+    color: #00b39b;
+}
+.img {
+    margin-top: 5px;
+    margin-left: 200px;
+}
+.item-bro {
+   display: flex;
+   width: 800px;
+   text-align: center;
+   margin-left: 350px;
+   color: #747474;
+  
+}
+.item-bro p {
+    margin: 15px;
+    font-weight: 55px;
+    min-height: 20px;
+}
+.number1 {
+    background-color:#caf7f1;
+    height: 250px;
+    width: 230px;
+    border-radius: 10px;
+    margin-bottom: -40px;
+    
+}
+.bro {
+    color: #00b39b;
+}
+.select {
+    margin-top: -20px;
+
+}
+.laye {
+    margin-left: 250px;
+    margin-top: 30px;
+}
+
+.pedri {
+    color: white;
+    text-align: center;
+}
+
+.select-style {
+    margin-top: -0px;
+}
+.number2 {
+    background-color: blue;
+    height: 245px;
+    width: 230px;
+    border-radius: 20px;
+    margin-left: 600px;
+    margin-top: -235px;
+    padding-top: 10px;
+    
+
+}
+
+
+.gavi {
+    color: white;
+   width: 200px;
+   text-align: center;
+ 
+
+}
+
+.select-mami {
+    margin-top: 70px;
+}
+
+.number3 {
+    background-color:#2b2929;
+    height: 245px;
+    width: 230px;
+    border-radius: 10px;
+    margin-left: 300px;
+    margin-top: -245px;
+    
+
+    }
+
+.awa {
+    color: white;
+}
+
+.select-bro {
+    margin-top: 80px;
+}
+
+.namiby {
+    margin-left: -800px;
+    text-align: center;
+    font-weight: 100px;
+    
+}
+
+.section-title {
+    font-size: 20px;
+    width: -900px;
+    font-family: Work Sans,Arial,sans-serif;
+    font-weight: 900px;
+    margin-left: -1300px;
+}
+
+.mola {
+    margin-left: -350px;
+    height: 200px;
+    max-height: 500px;
+    
+}
+.page {
+    font-size: large;
+    margin-left: -145px;
+    height: 900px;
+}
+.golden {
+    display: flex;
+    justify-content: center;
+}
+
+
+.col-2 {
+    display: flex;
+    justify-content: center;
+
+
+}
+.vert-align {
+    margin-top: 10px;
+}
+.stats__item {
+    margin-top: 10px;
+    display: block;
+}
+
+.sect-golden {
+    background-color: aquamarine;
+    height: 90%;
+    margin-left: -900px;
+    margin-right: -300px;
+
+}
+
+.col-2-btn {
+    display: block; 
+    display: flex;
+    
+}
+header.col-2-boys {
+    margin-left: -350px;
+    margin-top: 50px;
+}
+h1.vbt {
+    margin-right: -700px;
+}
+.soo {
+    margin-right: 600px;
+    color: #747474;
+}
+
+.col-2-btn {
+    margin-left: 900px;
+}
+.stats__item {
+    background-color:white;
+}
+.vert-align {
+    margin: -10px;
+}
+.gps {
+    margin: 10px;
+}
+div {
+    margin: 10px;
+}
+.col-2{
+font-weight: 100;
+}
+
+.zalone {
+    margin-right: -300px;
+}
+.raw {
+    margin-right: -300px;
+}
+.p-pam {
+    margin-right: -300px;
+}
+
+.milan {
+    margin-left: 200px;
+}
+.lion {
+    margin-left: 600px;
+    margin-top: -330px;
+}
+.madrid {
+    margin-left: 980px;
+    margin-top: -350px;
+}
+.reine {
+    margin-left: 200px;
+}
+.fass {
+    margin-left: 600px;
+    margin-top: -330px;
+}
+.casier {
+    margin-left: 980px;
+    margin-top: -350px;
+}
+
+.hlm {
+    margin-left: 200px;
+
+}
+
+.parcelle {
+    margin-left: 600px;
+    margin-top: -330px;
+
+}
+.liberte {
+    margin-left: 980px;
+    margin-top: -350px;
+}
+.yeumbeul {
+    margin-top: 200px;
+}
+
